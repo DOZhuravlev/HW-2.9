@@ -51,6 +51,5 @@ extension MainViewController {
         springAnimationView.duration = animation.duration
         springAnimationView.delay = animation.delay
         springAnimationView.animate()
-        print(animation)
     }
 }
